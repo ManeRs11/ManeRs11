@@ -1,16 +1,24 @@
-### Hi there 👋
+<br />
 
-<!--
-**ManeRs11/ManeRs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## @ManeRs 😎
 
-Here are some ideas to get you started:
+## Hi, Welcome at my gitHub!
+<i>Writer of Code...!!</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
+let aboutMe = {
+   name: "Juan Manuel Ramírez Sánchez",
+   nickName: 'ManeRs'
+   age: "32 Years",
+   study: 'Systems Engineer',
+   code: [Javascript, Java, PHP]
+   frameworks: [ VueJs, IONIC, ExpressJS, SailsJs ],
+   databases: [ MongoDB, MySQL, PostgreSQL, Firebase ]
+   skills: [ Node,  Bootstrap ]
+}
+
+```
+
+- [Linkedin](https://www.linkedin.com/in/manuel-ramirez-a1258164/)
+
