@@ -8,7 +8,7 @@
 let aboutMe = {
    name: "Juan Manuel Ramírez Sánchez",
    nickName: 'ManeRs'
-   age: "32 Years",
+   age: "34 Years",
    study: 'Systems Engineer',
    code: [Javascript, Java, PHP]
    frameworks: [ VueJs, IONIC, ExpressJS, SailsJs ],
