@@ -9,11 +9,9 @@ let aboutMe = {
    name: "Juan Manuel Ramírez Sánchez",
    nickName: 'ManeRs'
    age: "34 Years",
-   study: 'Systems Engineer',
-   code: [Javascript, Java, PHP]
-   frameworks: [ VueJs, IONIC, ExpressJS, SailsJs ],
-   databases: [ MongoDB, MySQL, PostgreSQL, Firebase ]
-   skills: [ Node,  Bootstrap ]
+   city: 'México, Qro'
+   position: 'Sr FullStack Developer'
+   education: 'BS Systems Engineer at ITC',
 }
 
 ```
