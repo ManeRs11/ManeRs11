@@ -8,7 +8,7 @@
 let aboutMe = {
    name: "Juan Manuel Ramírez Sánchez",
    nickName: 'ManeRs'
-   age: "34 Years",
+   age: "35 Years",
    city: 'México, Qro'
    position: 'Sr FullStack Developer'
    education: 'BS Systems Engineer at ITC',
