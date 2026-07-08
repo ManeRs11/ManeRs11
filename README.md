@@ -1,20 +1,21 @@
-## @ManeRs 😎
+# Hi, I'm Juan Manuel Ramirez 👋
 
-## Hi, Welcome at my gitHub!
-<i>Writer of Code...!!</i>
+### Senior Full Stack Developer from Mexico 🇲🇽
 
+I'm passionate about building scalable backend systems, real-time IoT platforms, and cloud-native solutions.
 
-```
-let aboutMe = {
-   name: "Juan Manuel Ramírez Sánchez",
-   nickName: 'ManeRs'
-   age: "35 Years",
-   city: 'México, Qro'
-   position: 'Sr FullStack Developer'
-   education: 'BS Systems Engineer at ITC',
-}
+### Tech Stack
 
-```
+- ⚡ Node.js
+- ☕ Java (Spring Boot)
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+- 🐳 Docker
+- ☁️ AWS
+- 🐧 Linux
 
-- [Linkedin](https://www.linkedin.com/in/manuel-ramirez-a1258164/)
+---
 
+### 📫 Connect with me
+
+- 💼 LinkedIn: https://linkedin.com/in/manuelrs011
