@@ -1,6 +1,6 @@
-# Hi, I'm Juan Manuel Ramirez 👋
+# Hi, I'm Juan Manuel Ramirez 
 
-### Senior Full Stack Developer from Mexico 🇲🇽
+### Senior Full Stack & Automation Engineer from Mexico 🇲🇽
 
 I'm passionate about building scalable backend systems, real-time IoT platforms, and cloud-native solutions.
 
