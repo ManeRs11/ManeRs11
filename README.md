@@ -18,4 +18,4 @@ I'm passionate about building scalable backend systems, real-time IoT platforms,
 
 ### 📫 Connect with me
 
-- 💼 LinkedIn: https://linkedin.com/in/manuelrs011
+- LinkedIn: https://linkedin.com/in/manuelrs011
